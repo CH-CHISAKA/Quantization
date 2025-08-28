@@ -50,9 +50,11 @@ pip install -r requirements.txt_
 **Usage**
 
 **_CLI Version:___**
+
 _python quantizer.py --voltage 2.5 --resolution 10 --vref 5.0_
 
 _**GUI Version:**___
+
 _python gui_quantizer.py_
 
 
